@@ -28,6 +28,6 @@ A browser extension that adds a dictionary definition to the context menu when a
 
 ### API
 ----------
-This extension uses the [Merriam-Webster Collegiate Dictionary API](https://dictionaryapi.com/) to look up definitions. You will need to provide your own API key to use the extension.
+This extension uses the <a href="https://dictionaryapi.com/" target="_blank">Merriam-Webster Collegiate Dictionary API</a> to look up definitions. You will need to provide your own API key to use the extension.
 
 <strong style="color: grey;">This extension is licensed under the MIT License.</strong>
