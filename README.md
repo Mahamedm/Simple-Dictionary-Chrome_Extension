@@ -1,5 +1,5 @@
 # Dictionary Extension
-A browser extension that adds a dictionary definition to the context menu when a word is selected. This extension currently runs on **manifest version 2**.
+A browser extension that adds a dictionary definition to the context menu when a word is selected. This extension currently runs on **manifest version 2**, will make a version compateble with version 3 soon.
 
 ### Installation
 --------------------------------------
